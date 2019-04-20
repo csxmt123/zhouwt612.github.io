@@ -6,6 +6,13 @@
 这是我的[博客](https://wentaozhou.cn)、[Github](http://github.com/huxpro) 和 [Facebook](https://www.facebook.com/zhouwentao612)。
 
 
+##### 背景资料
+2013~2017 桂林电子科技大学
+2017~     崇实大学
+
+
+
+
 ##### Talks
 
 - [ICOIN2019][1] · [ICOIN 2019](http://http://icoin.org//)
