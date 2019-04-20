@@ -10,11 +10,12 @@ These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/huxpro)a
 
 ##### Talks
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
+- [ICOIN2019][1] · [ICOIN 2019](http://http://icoin.org//)
 
 
 
 
 [1]: //wentaozhou.cn/icoin2019
+
 
 
