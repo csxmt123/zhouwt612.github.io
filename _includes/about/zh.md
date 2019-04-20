@@ -3,7 +3,7 @@
 
 嗨，我叫周文涛，ICT研究僧，现居首尔。
 
-这是我的[博客](https://wentaozhou.cn)、[Github](http://github.com/huxpro) 和 [Facebook](https://www.facebook.com/zhouwentao612)。
+这是我的[博客](https://wentaozhou.cn)、[Github](http://github.com/) 和 [Facebook](https://www.facebook.com/zhouwentao612)。
 
 
 ##### 背景资料
