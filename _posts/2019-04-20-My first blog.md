@@ -4,6 +4,8 @@ title: "My first blog"
 subtitle: 'You can find something in my website in the future.'
 author: "WT"
 header-style: text
+---
+
 tags:
   - Life
 
