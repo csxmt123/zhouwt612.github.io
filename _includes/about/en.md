@@ -5,7 +5,7 @@
 
 Hi, I am *@wentao* (Zhou, wentao), a postgraduate student in Seoul. MY mahor is ICT. 
 
-These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/huxpro) and [Facebook](https://www.facebook.com/zhouwentao612).
+These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt612) and [Facebook](https://www.facebook.com/zhouwentao612).
 
 ##### Educational experience
 - 2013~2017 Guilin University Of Electronic Technology, Guilin, China.
