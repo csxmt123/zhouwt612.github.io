@@ -14,7 +14,7 @@ These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt61
 
 ##### Talks
 
-- [ICOIN2019][1] · [ICOIN 2019](http://http://icoin.org)
+- [ICOIN2019][1] · [ICOIN 2019](http://icoin.org)
 
 
 
