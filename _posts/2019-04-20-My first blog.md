@@ -7,7 +7,7 @@ header-style: text
 tags:
   - Life
 
-####Content
+##Content
 
 嗨，这是我的第一篇博客。
 
