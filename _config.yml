@@ -58,17 +58,8 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: wentao_zhou
+disqus_username: Wentao
 
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 95f534f83e3381b453fd                            #生成的clientID
-  clientSecret: 5c6e7266c6b308d156aea1892b9c1750fcbbf208    #生成的clientSecret
-  repo: zhouwt612.github.io    #仓库名称
-  owner: zhouwt612    #github用户名
-  admin: zhouwt612
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Netease settings
 netease_comment: false
