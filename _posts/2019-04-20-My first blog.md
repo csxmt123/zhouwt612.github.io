@@ -3,12 +3,12 @@ layout: post
 title: "My first blog"
 subtitle: 'You can find something in my website in the future.'
 author: "WT"
-header-style: text
----
+header-img: "img/post-bg-2015.jpg"
+catalog: true
 
 tags:
   - Life
-
+---
 
 
 嗨，这是我的第一篇博客。
