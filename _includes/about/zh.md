@@ -15,7 +15,4 @@
 
 ##### Talks
 
-- [ICOIN2019][1] · [ICOIN 2019](http://icoin.org)
-
-
-[1]: http://wentaozhou.cn/2019/04/27/ICOIN2019/
+- [ICOIN2019](http://wentaozhou.cn/2019/04/27/ICOIN2019/) · [ICOIN 2019](http://icoin.org)
