@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "ZWT website",
+  "short_name": "ZWT Blog",
+  "description": "An research who loves this world!",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
