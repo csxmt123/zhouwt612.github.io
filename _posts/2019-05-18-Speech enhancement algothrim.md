@@ -14,11 +14,11 @@ tags:
 
 I chose a course about speech signal processing this semester. So i read some paper on speech enhancement (SE).
 
-The following list shows the algorithms commonly used in SE.
+The following list shows the algorithms commonly used in SE and the databases.
 
 You can download the [codes](https://github.com/zhouwt612/Speech-enhancement/tree/master/Algothrims) and the [databases](https://github.com/zhouwt612/Speech-enhancement/tree/master/Datasets) here.
 
-## List
+## Algorithm
 
 ### Spectral Subtraction algothrim
 
@@ -35,4 +35,10 @@ You can download the [codes](https://github.com/zhouwt612/Speech-enhancement/tre
 ### Subspace algothrim
 
 - Karnuhen-Loeve Transform (KLT)
+
+## Database
+
+### Keele Database
+
+### Frequency Determination Algorithm
 
