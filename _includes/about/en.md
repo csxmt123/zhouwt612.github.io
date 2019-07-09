@@ -16,6 +16,6 @@ These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt61
 
 - Magnetic induction communication
 - Underwater communication
-- OFDM
-- SDR
-- AI
+- Orthogonal frequency division multiplexing
+- Software defined radio
+- Artificial intelligence
