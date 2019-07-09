@@ -3,7 +3,7 @@
 > Do a little more.
 
 
-Hi, I am *@wentao* (Zhou, wentao), a postgraduate student in Seoul. MY mahor is ICT. 
+Hi, I am Zhou, Wentao, a postgraduate student in Seoul, major in ICT.
 
 These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt612) and [Facebook](https://www.facebook.com/zhouwentao612).
 
