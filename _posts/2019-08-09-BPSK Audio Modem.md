@@ -12,7 +12,7 @@ tags:
 
 ## Foreword
 
-Recently, i found an interesting GNU Radio flow graph. So i post that flow graph in my blog.  [This](http://aaronscher.com/GNU_Radio_Companion_Collection/Audio_modem.html) is the source of this flow graph. It was made by Dr. Aaron Scher. You can also download this file [here](http://aaronscher.com/GNU_Radio_Companion_Collection/GNU_Radio_Companion_Collection_docs/audio_modem1.grc).
+Recently, i found an interesting GNU Radio flow graph and post that flow graph on my blog.  [This](http://aaronscher.com/GNU_Radio_Companion_Collection/Audio_modem.html) is the source of this flow graph. It was made by Dr. Aaron Scher. You can also download this file [here](http://aaronscher.com/GNU_Radio_Companion_Collection/GNU_Radio_Companion_Collection_docs/audio_modem1.grc).
 
 ## Flow graph
 
@@ -37,5 +37,11 @@ nc 127.0.0.1 1234
 ```
 
 4. If everything works (sometimes you need to try the above methods a few times before it works - not sure why), you should be able to send text message from the server terminal to the client terminal by sound. Here is a demo:
+<iframe 
+    height=450 
+    width=800 
+    src="https://www.youtube.com/watch?v=LYNg9oNtE60" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
 
-[![Demo](http://aaronscher.com/GNU_Radio_Companion_Collection/GNU_Radio_Companion_Collection_docs/BPSK_mod_demod_2.png)](https://www.youtube.com/watch?v=LYNg9oNtE60)
