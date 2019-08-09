@@ -12,7 +12,7 @@ tags:
 
 ## Foreword
 
-Recently, i found an interesting GNU Radio flow graph. [This](http://aaronscher.com/GNU_Radio_Companion_Collection/Audio_modem.html) is the source of this flow graph. You can also download this file [here](http://aaronscher.com/GNU_Radio_Companion_Collection/GNU_Radio_Companion_Collection_docs/audio_modem1.grc).
+Recently, i found an interesting GNU Radio flow graph. So i post that flow graph in my blog.  [This](http://aaronscher.com/GNU_Radio_Companion_Collection/Audio_modem.html) is the source of this flow graph. It was made by Dr.Aaron Scher. You can also download this file [here](http://aaronscher.com/GNU_Radio_Companion_Collection/GNU_Radio_Companion_Collection_docs/audio_modem1.grc).
 
 ## Flow graph
 
