@@ -1,5 +1,5 @@
 # Site settings
-title: Wentao's Blog
+title: Wentao's website
 SEOTitle: Wentao's Blog
 header-img: img/about-bg-walle.jpg
 email: zhouwt612@gmail.com
@@ -12,10 +12,7 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
 github_username:    zhouwt612
-#twitter_username:   huxpro
 facebook_username:  zhouwentao612
 #linkedin_username:  firstname-lastname-idxxxx
 
