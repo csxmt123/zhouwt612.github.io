@@ -38,4 +38,4 @@ nc 127.0.0.1 1234
 
 4. If everything works (sometimes you need to try the above methods a few times before it works - not sure why), you should be able to send text message from the server terminal to the client terminal by sound. Here is a demo:
 
-[linkname](https://www.youtube.com/watch?v=LYNg9oNtE60)
+width="720" height="480" src="https://www.youtube.com/watch?v=LYNg9oNtE60" allowfullscreen="">
