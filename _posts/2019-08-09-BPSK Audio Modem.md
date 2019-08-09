@@ -38,6 +38,4 @@ nc 127.0.0.1 1234
 
 4. If everything works (sometimes you need to try the above methods a few times before it works - not sure why), you should be able to send text message from the server terminal to the client terminal by sound. Here is a demo:
 
-<video width="480" height="320" controls>
-<source src="https://www.youtube.com/watch?v=LYNg9oNtE60">
-</video>
+<embed src="http://player.youku.com/player.php/Type/Folder/Fid/27690810/Ob/1/sid/XMTY1MTI3NjMyNA==/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" allowFullScreen="true" mode="transparent" type="application/x-shockwave-flash"></embed>
