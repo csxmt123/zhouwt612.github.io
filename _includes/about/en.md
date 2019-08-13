@@ -1,6 +1,6 @@
 
 
-> Do a little more.
+> Nothing is impossible.
 
 
 Hi, I am Zhou, Wentao, a postgraduate student in Seoul, major in ICT.
