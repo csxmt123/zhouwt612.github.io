@@ -11,7 +11,7 @@ tags:
 ---
 
 
-近我发现了一些学习 GNU radio 很好的书籍与网址，有需要的可以进行参考。
+最近我发现了一些学习 GNU radio 很好的书籍与网址，有需要的可以进行参考。
 
 Recently, I found some good books and websites about studying GNU radio. 
 
