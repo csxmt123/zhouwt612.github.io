@@ -16,7 +16,7 @@ I chose a course about speech signal processing this semester. So i read some pa
 
 The following list shows the algorithms commonly used in SE and the databases.
 
-You can download the [codes](https://github.com/zhouwt612/Speech-enhancement/tree/master/Algothrims) and the [databases](https://github.com/zhouwt612/Speech-enhancement/tree/master/Datasets) here.
+You can download the [**codes**](https://github.com/zhouwt612/Speech-enhancement/tree/master/Algothrims) and the [**databases**](https://github.com/zhouwt612/Speech-enhancement/tree/master/Datasets) here.
 
 ## Algorithm
 
