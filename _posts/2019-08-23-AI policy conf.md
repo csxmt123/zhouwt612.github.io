@@ -12,7 +12,7 @@ tags:
 
 ## Foreword
 
-Today I attend a conference held by SNU. The content is the policies of AI. If you have interests, you can find the conference [*here*](https://www.youtube.com/channel/UCKyxSZOtLB1YvkKM2_Mq8gQ/featured).
+Today I attend a conference held by SNU. The content is the policies of AI. If you have interests, you can find the conference [**here**](https://www.youtube.com/channel/UCKyxSZOtLB1YvkKM2_Mq8gQ/featured).
 
 ## Pictures
 
