@@ -3,7 +3,7 @@
 > Nothing is impossible.
 
 
-Hi, I am Zhou, Wentao, a postgraduate student in Seoul, majoring in EE.
+Hi, I am Zhou, Wentao, a postgraduate student in Seoul, majoring in ICT.
 
 These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt612) and [Facebook](https://www.facebook.com/zhouwentao612).
 
