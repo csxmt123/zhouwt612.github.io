@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNU radio Books"
+title: "Websites and Books about GNUradio"
 subtitle: 'GNU Radio study.'
 author: "WT"
 header-img: "img/post-bg-2015.jpg"
@@ -16,6 +16,8 @@ tags:
 Recently, I found some good books and websites about studying GNU radio. 
 
 - [**CSUN/EAFB Software Defined Radio (SDR) Senior Project**](http://www.csun.edu/~skatz/katzpage/sdr_project/sdrproject.html)
+
+- [**GNU Radio Manual and C++ API Reference**](https://www.gnuradio.org/doc/doxygen/index.html)
 
 - [**I and Q Components in Communications Signalsand Single Sideband**](http://www.csun.edu/~skatz/katzpage/sdr_project/sdr/IandQ%20_and_Sideband_7_10.pdf)
 
