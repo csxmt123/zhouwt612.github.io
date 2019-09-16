@@ -23,10 +23,8 @@ These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt61
 
 ##### Research Experience
 
-03/2018 – Present: Soongsil University, Engineering Building, South Korea
-
-Research Assistant, Communication & Information Processing (CIP) Lab
-
+03/2018 – Present: Soongsil University, Engineering Building, South Korea <br>
+Research Assistant, Communication & Information Processing (CIP) Lab <br>
 Topic: Underwater Magnetic Induction Communication System
 
 ##### Awards
