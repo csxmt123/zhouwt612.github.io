@@ -5,7 +5,7 @@
 
 这是我的[博客](https://wentaozhou.cn)、[Github](http://github.com/) 和 [Facebook](https://www.facebook.com/zhouwentao612)。
 
-##### 教育背景
+##### 教育
 - 2013~2017 桂林电子科技大学
 - 2017~现在     Soongsil University （韩国）
   - 指导教授： [Yoan Shin](https://ieeexplore.ieee.org/author/37279496500)
@@ -20,10 +20,8 @@
 
 ##### 研究经历
 
-03/2018 – 现在: Soongsil University, Engineering Building, South Korea
-
-Research Assistant, Communication & Information Processing (CIP) Lab
-
+03/2018 – 现在: Soongsil University, Engineering Building, South Korea <br>
+Research Assistant, Communication & Information Processing (CIP) Lab <br>
 Topic: Underwater Magnetic Induction Communication System
 
 ##### 获奖
