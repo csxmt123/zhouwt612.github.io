@@ -15,8 +15,8 @@ These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt61
 
 ##### Research interests
 
-- Magnetic induction communication
-- Underwater communication
-- Orthogonal frequency division multiplexing
-- Software defined radio
-- Artificial intelligence
+- Magnetic Induction Communication
+- Underwater Communication
+- Orthogonal Frequency Division Multiplexing
+- Software Defined Radio
+- Reinforcement Learning
