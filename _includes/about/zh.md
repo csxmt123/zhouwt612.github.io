@@ -21,9 +21,7 @@
 ##### 研究经历
 
 03/2018 – 现在: Soongsil University, Engineering Building, South Korea
-
 Research Assistant, Communication & Information Processing (CIP) Lab
-
 Topic: Underwater Magnetic Induction Communication System
 
 ##### 获奖
