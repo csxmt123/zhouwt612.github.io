@@ -5,14 +5,10 @@
 
 这是我的[博客](https://wentaozhou.cn)、[Github](http://github.com/) 和 [Facebook](https://www.facebook.com/zhouwentao612)。
 
-
-##### 背景资料
+##### 教育背景
 - 2013~2017 桂林电子科技大学
-- 2017~现在     崇实大学 （韩国）
+- 2017~现在     Soongsil University （韩国）
   - 指导教授： [Yoan Shin](https://ieeexplore.ieee.org/author/37279496500)
-
-
-
 
 ##### 研究兴趣
 
@@ -21,3 +17,15 @@
 - 正交频分复用
 - 软件定义无线电
 - 强化学习
+
+##### 研究经历
+
+03/2018 – 现在: Soongsil University, Engineering Building, South Korea
+Research Assistant, Communication & Information Processing (CIP) Lab
+Topic: Underwater Magnetic Induction Communication System
+
+##### 获奖
+
+- 奖学金, Soongsil University, 2018-Present.
+- 奖学金，桂林电子科技大学, 2017.
+
