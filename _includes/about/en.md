@@ -10,7 +10,7 @@ These are my [**Blog**](https://wentaozhou.cn)、[**Github**](http://github.com/
 ##### Education
 - 2013~2017 Guilin University of Electronic Technology, Guilin, China.
 - 2017~Now  Soongsil University, Seoul, South Korea.
-  - Supervisor: [Yoan Shin](https://ieeexplore.ieee.org/author/37279496500)
+  - Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
 
 
 ##### Research Interests
