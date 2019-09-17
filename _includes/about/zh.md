@@ -8,7 +8,7 @@
 ##### 教育
 - 2013~2017 桂林电子科技大学
 - 2017~现在     Soongsil University （韩国）
-  - 指导教授： [Yoan Shin](https://ieeexplore.ieee.org/author/37279496500)
+  - 指导教授： [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
 
 ##### 研究兴趣
 
