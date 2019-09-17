@@ -3,9 +3,9 @@
 > Nothing is impossible.
 
 
-Hi, I am Zhou, Wentao. I am studying for a master's degree in Information and Telecommunication Engineering in South Korea. You can download my [C.V.](https://drive.google.com/file/d/1S2R_JTLOyPbFp-3qUMbcPc4bE5DzzS_4/view?usp=sharing) here.
+Hi, I am Zhou, Wentao. I am studying for a master's degree in Information and Telecommunication Engineering in South Korea. You can download my [**C.V.**](https://drive.google.com/file/d/1S2R_JTLOyPbFp-3qUMbcPc4bE5DzzS_4/view?usp=sharing) here.
 
-These are my [Blog](https://wentaozhou.cn)、[Github](http://github.com/zhouwt612) and [Facebook](https://www.facebook.com/zhouwentao612).
+These are my [**Blog**](https://wentaozhou.cn)、[**Github**](http://github.com/zhouwt612) and [**Facebook**](https://www.facebook.com/zhouwentao612).
 
 ##### Education
 - 2013~2017 Guilin University of Electronic Technology, Guilin, China.
