@@ -78,9 +78,48 @@ Constellation which calculates the distance to each point in the constellation f
 Constructor Specific Documentation:
 Make a general constellation object that calculates the Euclidean distance for hard decisions.
 
-|Parameters|Meaning|
+|Parameters|Note|
 |  ----    | ----  |
-|          | |
-|||
+|constell|List of constellation points (order of list matches pre_diff_code).|
+|pre_diff_code|List of alphabet symbols (before applying any differential coding) (order of list matches constell).|
+|rotational_symmetry|Number of rotations around unit circle that have the same representation.|
+|dimensionality|Number of dimensions to the constellation.|
 
+### Constellation space is divided into pie slices sectors
+
+```
+digital.constellation_psk(pmt_vector_cfloat constell, std::vector< int, std::allocator< int > > pre_diff_code, unsigned int n_sectors)
+```
+Constellation space is divided into pie slices sectors.
+Each slice is associated with the nearest constellation point.
+Works well for PSK but nothing else.
+Assumes that there is a constellation point at 1.x
+
+### Rectangular digital constellation
+
+```
+digital.constellation_rect(pmt_vector_cfloat constell, std::vector< int, std::allocator< int > > pre_diff_code, unsigned int rotational_symmetry, unsigned int real_sectors, unsigned int imag_sectors, float width_real_sectors, float width_imag_sectors)
+```
+
+Only implemented for 1-(complex)dimensional constellation.
+Constellation space is divided into rectangular sectors. Each sector is associated with the nearest constellation point.
+Works well for square QAM.
+Works for any generic constellation provided sectors are not too large.
+Constructor Specific Documentation:
+Make a rectangular constellation object.
+
+
+|Parameters|Note|
+|  ----    | ----  |
+|constell|List of constellation points (order of list matches pre_diff_code).|
+|pre_diff_code|List of alphabet symbols (before applying any differential coding) (order of list matches constell).|
+|rotational_symmetry|Number of rotations around unit circle that have the same representation.|
+|real_sectors|Number of sectors the real axis is split in to.|
+|imag_sectors|Number of sectors the imag axis is split in to.|
+|width_real_sectors|width of each real sector to calculate decision boundaries.|
+|width_imag_sectors|width of each imag sector to calculate decision boundaries.|
+
+
+# REFERENCE
+[gnuradio.digital: Constellations](https://www.gnuradio.org/doc/sphinx-3.7.3/digital/constellations.html#gnuradio.digital.qam.qam_constellation).
 
