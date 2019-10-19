@@ -78,8 +78,9 @@ Constellation which calculates the distance to each point in the constellation f
 Constructor Specific Documentation:
 Make a general constellation object that calculates the Euclidean distance for hard decisions.
 
-|Parameters| - constell – List of constellation points (order of list matches pre_diff_code)                  |
-|   ----   |                                                                                                  |
-|          | - pre_diff_code – List of alphabet symbols.                                                      |
-|          | - rotational_symmetry – Number of rotations around unit circle that have the same representation.|
-|          | - dimensionality – Number of dimensions to the constellation.                                    |
+|Parameters|Meaning|
+|  ----    | ----  |
+|          | |
+|||
+
+
