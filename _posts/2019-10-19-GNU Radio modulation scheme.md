@@ -78,7 +78,7 @@ Constellation which calculates the distance to each point in the constellation f
 Constructor Specific Documentation:
 Make a general constellation object that calculates the Euclidean distance for hard decisions.
 
-
-
-
+|Parameters|
+|   ----   |
+|          |
 
