@@ -34,7 +34,7 @@ digital.constellation_qpsk()
 Digital constellation for QPSK.
 
 ```
-digital.constellation_dqpsk() 
+digital.constellation_dqpsk()
 ```
 Digital constellation for DQPSK.
 
