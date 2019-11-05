@@ -12,5 +12,16 @@ tags:
 
 ## Foreword
 After collecting the data through USRP and GNU Radio, we have to analyze the data.
-We can use [*read_complex_binary*](https://github.com/zhouwt612/MI-communication-Implement/blob/master/Data%20capture/read_complex_binary.m) and [*read_float_binary*](https://github.com/zhouwt612/MI-communication-Implement/blob/master/Data%20capture/read_float_binary.m) to get the transmission data.
+I search for how to get the data after GNU Radio and USRP.
+There are two methods.
 
+### Through MATLAB or GNU Octave
+We can use [**read_complex_binary**](https://github.com/zhouwt612/MI-communication-Implement/blob/master/Data%20capture/read_complex_binary.m) and [**read_float_binary**](https://github.com/zhouwt612/MI-communication-Implement/blob/master/Data%20capture/read_float_binary.m) to get the transmission data.
+
+### In MATLAB
+
+```
+data = fopen(file_name,'r');
+data = fread(data);
+fclose(file_name);
+```
