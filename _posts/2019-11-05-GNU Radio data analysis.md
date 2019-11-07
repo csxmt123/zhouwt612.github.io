@@ -16,7 +16,7 @@ I search for how to get the data after GNU Radio and USRP.
 There are two methods.
 
 ### Through MATLAB or GNU Octave
-We can use [**read_complex_binary**](https://github.com/zhouwt612/MI-communication-Implement/blob/master/Data%20capture/read_complex_binary.m) and [**read_float_binary**](https://github.com/zhouwt612/MI-communication-Implement/blob/master/Data%20capture/read_float_binary.m) to get the transmission data.
+We can use [**read_complex_binary**](https://github.com/zhouwt612/MI-communication-Implement/blob/master/Data%20capture/read_complex_binary.m) and [**read_float_binary**](https://github.com/zhouwt612/zhouwt612.github.io/blob/master/_posts/Files/Data%20capture/read_float_binary.m) to get the transmission data.
 
 ### In MATLAB
 
