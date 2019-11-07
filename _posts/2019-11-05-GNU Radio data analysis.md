@@ -25,3 +25,6 @@ data = fopen(file_name,'r');
 data = fread(data);
 fclose(file_name);
 ```
+
+## Reference
+[Capturing Signals in GNU Radio](http://www.csun.edu/~skatz/katzpage/sdr_project/sdr/capture_sigs.pdf).
