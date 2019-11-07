@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Websites and Books about GNUradio"
+title: "GNU Radio data analysis program"
 subtitle: 'SDR Radio study.'
 author: "WT"
 header-img: "img/post-bg-2015.jpg"
