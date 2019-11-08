@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GNU Radio data analysis program"
-subtitle: 'SDR Radio study.'
+subtitle: 'SDR study.'
 author: "WT"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
