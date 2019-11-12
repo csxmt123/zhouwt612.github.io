@@ -12,7 +12,7 @@ tags:
 
 ## Foreword
 
-I chose a course about speech signal processing this semester. So i read some paper on speech enhancement (SE).
+I chose a course about speech signal processing this semester. So I read some paper on speech enhancement (SE).
 
 The following list shows the algorithms commonly used in SE and the databases.
 
