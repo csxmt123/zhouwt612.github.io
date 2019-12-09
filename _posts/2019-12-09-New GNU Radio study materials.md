@@ -12,7 +12,7 @@ tags:
 
 ## Materials
 
-I found some new materials for GNU Radio study. So I posted those here.
+Recently, I found some new materials for GNU Radio study. So I posted those here.
 
 [Introduction to Software Defined Radio and GNU Radio](https://github.com/zhouwt612/Books/blob/master/GNU%20radio/Introduction%20to%20Software%20Defined%20Radio%20and.pdf).
 
