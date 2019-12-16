@@ -29,5 +29,6 @@ Topic: Underwater Magnetic Induction Communication System
 
 ##### Awards
 
+- VTS Seoul Chapter Award, APWCS, Aug. 2019.
 - Scholarship, Soongsil University, 2018-Present.
 - Scholarship, Guilin University of Electronic Technology, 2017.
