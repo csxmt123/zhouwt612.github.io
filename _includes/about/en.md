@@ -18,7 +18,7 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
 - Magnetic Induction Communication
 - Underwater Communication
 - Orthogonal Frequency Division Multiplexing
-- Software Defined Radio
+- Software-defined Radio
 - Reinforcement Learning
 
 ##### Research Experience
