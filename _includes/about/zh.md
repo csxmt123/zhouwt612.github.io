@@ -26,7 +26,8 @@ Topic: Underwater Magnetic Induction Communication System
 
 ##### 获奖
 
-- VTS Seoul Chapter Award, APWCS, Aug. 2019.
-- 奖学金, Soongsil University, 2018-Present.
-- 奖学金，桂林电子科技大学, 2017.
+- 最佳论文奖，韩国通信学会（KICS），Nove. 2019 
+- VTS Seoul Chapter Award，APWCS, Aug. 2019.
+- 奖学金, Soongsil University，2018-Present.
+- 奖学金，桂林电子科技大学，2017.
 
