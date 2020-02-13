@@ -6,9 +6,20 @@
 这是我的[**博客**](https://wentaozhou.cn)、[**Github**](http://github.com/) 和 [**Facebook**](https://www.facebook.com/zhouwentao612)。
 
 ##### 教育
-- 2013~2017 桂林电子科技大学
-- 2017~现在     Soongsil University （韩国）
-  - 指导教授： [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
+
+- 03/2020 ~ 现在：工学博士 电气与计算机工程  
+  高丽大学，首尔，韩国  
+  专业：通信与网络
+  指导教授：
+
+- 03/2018 ~ 02/2020: 工学硕士 信息与无线通信工程  
+  崇实大学，首尔，韩国  
+  专业：无线通信系统  
+  指导教授： [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
+  
+- 09/2013 ~ 07/2017: 工学学士 电子工程与自动化  
+  桂林电子科技大学，桂林，中国  
+  专业：光电信息科学与工程
 
 ##### 研究兴趣
 
