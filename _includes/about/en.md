@@ -14,8 +14,8 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
 - 09/2017 ~ 02/2020:
   - Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
   
-- 09/2013 ~ 07/2017: B. E. in Electronic Engineering and Automation
-  Guilin University of Electronic Technology, China
+- 09/2013 ~ 07/2017: B. E. in Electronic Engineering and Automation  
+  Guilin University of Electronic Technology, China  
   Major: Optoelectronic Information Science and Engineering
 
 ##### Research Interests
