@@ -8,7 +8,7 @@ Hi, I am Zhou, Wentao. I am studying for a master's degree in Information and Te
 These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/zhouwt612), and [**Facebook**](https://www.facebook.com/zhouwentao612).
 
 ##### Education
-- 03/2020 ~ Present: Ph.D. in Electrical and Computer Engineering  
+- 03/2020 ~ Present: Ph.D. Candidate in Electrical and Computer Engineering  
   Korea University, Seoul, South Korea  
   Major: Communication and Networks  
   Supervisor: 
