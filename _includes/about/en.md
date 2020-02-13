@@ -8,11 +8,15 @@ Hi, I am Zhou, Wentao. I am studying for a master's degree in Information and Te
 These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/zhouwt612), and [**Facebook**](https://www.facebook.com/zhouwentao612).
 
 ##### Education
-- 03/2020 ~ Present:
-  - Supervisor: 
+- 03/2020 ~ Present: Ph.D. in Electrical and Computer Engineering  
+  Korea University, Seoul, South Korea  
+  Major: Communication and Networks  
+  Supervisor: 
   
-- 09/2017 ~ 02/2020:
-  - Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
+- 09/2017 ~ 02/2020: M. E. in Information and Telecommunication Engineering  
+  Soongsil University, Seoul, South Korea  
+  Major: Wireless Communication Systems  
+  Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
   
 - 09/2013 ~ 07/2017: B. E. in Electronic Engineering and Automation  
   Guilin University of Electronic Technology, China  
