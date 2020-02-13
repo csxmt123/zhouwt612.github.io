@@ -8,11 +8,15 @@ Hi, I am Zhou, Wentao. I am studying for a master's degree in Information and Te
 These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/zhouwt612), and [**Facebook**](https://www.facebook.com/zhouwentao612).
 
 ##### Education
-- 03/2020 ~ Present Korea University, Seoul South Korea.
+- 03/2020 ~ Present:
   - Supervisor: 
-- 09/2017 ~ 02/2020  Soongsil University, Seoul, South Korea.
+  
+- 09/2017 ~ 02/2020:
   - Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
-- 09/2013 ~ 07/2017 Guilin University of Electronic Technology, Guilin, China.
+  
+- 09/2013 ~ 07/2017: B. E. in Electronic Engineering and Automation
+  Guilin University of Electronic Technology, China
+  Major: Optoelectronic Information Science and Engineering
 
 ##### Research Interests
 
