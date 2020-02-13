@@ -9,7 +9,7 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
 
 ##### Education
 - 03/2020 ~ Present Korea University, Seoul South Korea.
-
+  - Supervisor: 
 - 09/2017 ~ 02/2020  Soongsil University, Seoul, South Korea.
   - Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)
 - 09/2013 ~ 07/2017 Guilin University of Electronic Technology, Guilin, China.
