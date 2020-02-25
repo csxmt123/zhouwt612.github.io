@@ -13,7 +13,7 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
   Major: Communication and Networks  
   Supervisor: [**Inkyu Lee**](https://ieeexplore.ieee.org/author/37279664500)
   
-- 09/2017 ~ 02/2020: M. E. in Information and Telecommunication Engineering  
+- 03/2018 ~ 02/2020: M. E. in Information and Telecommunication Engineering  
   Soongsil University, Seoul, South Korea  
   Major: Wireless Communication Systems  
   Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)  
