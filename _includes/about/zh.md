@@ -1,7 +1,7 @@
 > 锲而舍之 朽木不折  
 > 锲而不舍 金石可镂
 
-嗨，我叫周文涛，现居首尔，主修电气计算机工程。你可以在这里下载我的[**个人简历**](https://drive.google.com/file/d/1XC0KFD3qtjA2Au6OFI6xEUq6c7_mIs_x/view?usp=sharing)。
+嗨，我叫周文涛，现居首尔，主修电气计算机工程。你可以在这里下载我的[**个人简历**](https://drive.google.com/file/d/1jKevQdPdokYKCYvHzJ1ggfBS7anwKGv5/view?usp=sharing)。
 
 这是我的[**博客**](https://wentaozhou.cn)、[**Github**](http://github.com/) 和 [**Facebook**](https://www.facebook.com/zhouwentao612)。
 
