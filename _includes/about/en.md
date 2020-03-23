@@ -13,12 +13,12 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
   Major: Communication and Networks  
   Supervisor: [**Inkyu Lee**](https://ieeexplore.ieee.org/author/37279664500)
   
-- 03/2018 ~ 02/2020: M. E. in Electrical Engineering
+- 03/2018 ~ 02/2020: M. E. in Electrical Engineering  
   Soongsil University (SSU), Seoul, South Korea  
   Major: Wireless Communication Systems  
   Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)  
   
-- 09/2013 ~ 07/2017: B. E. in Electrical Engineering
+- 09/2013 ~ 07/2017: B. E. in Electrical Engineering  
   Guilin University of Electronic Technology (GUET), Guilin, China  
   Major: Optoelectronic Information Science and Engineering  
 
