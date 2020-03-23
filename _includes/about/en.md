@@ -9,17 +9,17 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
 
 ##### Education
 - 03/2020 ~ Present: Ph.D. Candidate in Electrical and Computer Engineering  
-  Korea University, Seoul, South Korea  
+  Korea University (KU), Seoul, South Korea  
   Major: Communication and Networks  
   Supervisor: [**Inkyu Lee**](https://ieeexplore.ieee.org/author/37279664500)
   
 - 03/2018 ~ 02/2020: M. E. in Information and Telecommunication Engineering  
-  Soongsil University, Seoul, South Korea  
+  Soongsil University (SSU), Seoul, South Korea  
   Major: Wireless Communication Systems  
   Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)  
   
 - 09/2013 ~ 07/2017: B. E. in Electronic Engineering and Automation  
-  Guilin University of Electronic Technology, China  
+  Guilin University of Electronic Technology (GUET), China  
   Major: Optoelectronic Information Science and Engineering  
 
 ##### Research Interests
