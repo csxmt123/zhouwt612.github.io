@@ -31,12 +31,12 @@
 
 ##### 研究经历
 
-03/2020 - 现在： Korea University, New Engineering Building, South Korea <br>
-Research Assistant, Communication and Intelligence System Lab (CISL) <br>
+- 03/2020 - 现在： Korea University, New Engineering Building, South Korea <br>
+  Research Assistant, Communication and Intelligence System Lab (CISL) <br>
 
-03/2018 – 02/2020: Soongsil University, Engineering Building, South Korea <br>
-Research Assistant, Communication & Information Processing (CIP) Lab <br>
-Topic: Underwater Magnetic Induction Communication System
+- 03/2018 – 02/2020: Soongsil University, Engineering Building, South Korea <br>
+  Research Assistant, Communication & Information Processing (CIP) Lab <br>
+  Topic: Underwater Magnetic Induction Communication System
 
 ##### 获奖
 
