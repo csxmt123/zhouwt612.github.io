@@ -5,7 +5,7 @@
 
 Hi, I am Zhou, Wentao. I am studying for a doctor degree in Electrical and Computer Engineering in South Korea. You can download my [**C.V.**](https://drive.google.com/file/d/1jKevQdPdokYKCYvHzJ1ggfBS7anwKGv5/view?usp=sharing) here. 
 
-These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/zhouwt612), and [**Facebook**](https://www.facebook.com/zhouwentao612). You can also contact me through [Email](zhouwt612@gmail).
+These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/zhouwt612), and [**Facebook**](https://www.facebook.com/zhouwentao612).
 
 ##### Education
 - 03/2020 ~ Present: Ph.D. Candidate in Electrical and Computer Engineering  
