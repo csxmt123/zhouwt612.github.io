@@ -3,7 +3,7 @@
 > Nothing is impossible.
 
 
-Hi, I am Zhou, Wentao. I am studying for a doctor degree in Electrical and Computer Engineering in South Korea. You can download my [**C.V.**](https://drive.google.com/file/d/1jKevQdPdokYKCYvHzJ1ggfBS7anwKGv5/view?usp=sharing) here. 
+Hi, I am Zhou, Wentao. I am studying for a doctoral degree in Electrical and Computer Engineering in South Korea. You can download my [**C.V.**](https://drive.google.com/file/d/1jKevQdPdokYKCYvHzJ1ggfBS7anwKGv5/view?usp=sharing) here. 
 
 These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/zhouwt612), and [**Facebook**](https://www.facebook.com/zhouwentao612).
 
