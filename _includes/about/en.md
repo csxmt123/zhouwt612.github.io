@@ -40,7 +40,7 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
   Topic: Underwater Magnetic Induction Communication System  
 
 ##### Awards
-- Outstanding graduates, GUET, Apr. 2020.
+- Outstanding Graduates, GUET, Apr. 2020.
 - Best Paper Award, KICS, Nov. 2019.
 - VTS Seoul Chapter Award, APWCS, Aug. 2019.
 - Scholarship, Soongsil University, Mar. 2018 - Feb. 2020.
